@@ -9,4 +9,7 @@
   - dodecahedron
   - icosahedron
   add sum, product of different dice combinations
+
+  Divide code with main function file and defined functions
+  in separate file and header
   */
