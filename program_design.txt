@@ -1,0 +1,7 @@
+PROGRAM DESIGN:
+
+functions:
+- choose the dice type (number of sides)
+- shake and draw
+
+QUESTION: how to add the graphic? Is it necessary?
