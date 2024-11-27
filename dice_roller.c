@@ -15,7 +15,7 @@
   */
 
 #include <stdio.h>
-#include "dice_roller.h"
+#include "dice_functions.h"
 
 int main() {
     int choice, rolls, i;
